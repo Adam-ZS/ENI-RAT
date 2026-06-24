@@ -1,0 +1,6 @@
+# ENI-RAT Dependencies
+requests>=2.28.0
+pycryptodome>=3.15.0
+websockets>=10.0
+customtkinter>=5.2.0
+Pillow>=9.0.0

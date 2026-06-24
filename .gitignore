@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+server/rat.db
+payloads/
+builder/payloads/
+exfiltrated/
+screenshots/
+*/__pycache__/
+build/
+dist/
+*.spec
